@@ -33,7 +33,7 @@ Alternativ kann das Plugin manuell installiert werden, indem die Plugin-Dateien 
 
 == Screenshots ==
 
-![Beispiel aus einem WordPress System](/assets/screenshot.png)
+https://github.com/if-digital/IF.HELPER/blob/7900cfa957921989b61e660887a54e3ff0f5b42b/assets/screenshot.png
 
 == Changelog ==
 
