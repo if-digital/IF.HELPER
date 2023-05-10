@@ -3,6 +3,10 @@
   margin-top: 0.75rem;
   margin-bottom: 0.75rem;
 }
+.block-editor-block-list__layout > *:hover{
+  outline: 1px dashed rgb(127, 127, 127);
+
+}
 .block-editor-block-list__layout > * > *:hover {
   outline: 1px dashed rgb(182, 182, 182);
 }
