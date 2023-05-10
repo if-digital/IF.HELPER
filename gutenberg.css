@@ -1,0 +1,8 @@
+.block-editor-block-list__layout > * {
+  outline: 1px dashed #e8e8e8;
+  margin-top: 0.75rem;
+  margin-bottom: 0.75rem;
+}
+.block-editor-block-list__layout > * > *:hover {
+  outline: 1px dashed rgb(182, 182, 182);
+}
