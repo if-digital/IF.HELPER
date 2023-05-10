@@ -1,7 +1,7 @@
-=== Plugin Name ===
+# Plugin Name #
 Contributors: (this should be a list of wordpress.org userid's)
 Donate link: https://www.if.digital/
-Tags: comments, spam
+Tags: helper, css, editor, gutenberg,
 Requires at least: 3.0.1
 Tested up to: 3.4
 Stable tag: 4.3
@@ -10,7 +10,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Dieses WordPress-Plugin namens "IF.HELPER" fügt einige benutzerdefinierte CSS-Regeln für den Gutenberg-Editor im Backend hinzu. Usefull Content Editors = Happy Editors!
 
-== Description ==
+# Description #
 
 Dieses WordPress-Plugin namens "IF.HELPER" fügt einige benutzerdefinierte CSS-Regeln für den Gutenberg-Editor im Backend hinzu. Das Ziel des Plugins ist es, die Bearbeitung im Gutenberg-Editor zu erleichtern und somit für zufriedenere Content-Editoren zu sorgen.
 
@@ -18,7 +18,7 @@ Das Plugin fügt das benutzerdefinierte CSS mit der Funktion ifhelper_css() hinz
 
 Das Plugin wurde von IF.DIGITAL GmbH erstellt und ist unter der GPL-2.0+ Lizenz verfügbar. Es hat auch eine Text-Domain für die Übersetzung von Plugin-Texten.
 
-== Installation ==
+# Installation #
 
 1. Lade das Repository herunter
 2. Gehe zum WordPress-Dashboard deiner Website.
@@ -31,11 +31,11 @@ Das Plugin wurde von IF.DIGITAL GmbH erstellt und ist unter der GPL-2.0+ Lizenz 
 Das Plugin kann auch deaktiviert oder deinstalliert werden, indem du auf "Plugins" klickst und das entsprechende Plugin auswählst.
 Alternativ kann das Plugin manuell installiert werden, indem die Plugin-Dateien in das Plugin-Verzeichnis deiner WordPress-Installation hochgeladen werden. Das Plugin-Verzeichnis findest du unter wp-content/plugins/. Nach dem Hochladen der Dateien kannst du das Plugin im WordPress-Dashboard aktivieren.
 
-== Screenshots ==
+# Screenshots #
 
 ![Beispiel aus einem WordPress System](/assets/screenshot.png)
 
-== Changelog ==
+# Changelog #
 
 = 1.0 =
 * Production Version
