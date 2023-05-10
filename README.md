@@ -23,7 +23,7 @@ Das Plugin wurde von IF.DIGITAL GmbH erstellt und ist unter der GPL-2.0+ Lizenz 
 1. Lade das Repository herunter
 2. Gehe zum WordPress-Dashboard deiner Website.
 3. Klicke auf "Plugins" in der linken Navigationsleiste und wähle dann "Installieren".
-4. Suche nach "IF.HELPER" in der Plugins-Suchleiste.
+4. Lade den Plugin in dein System hoch.
 5. Klicke auf "Installieren" und warte, bis das Plugin heruntergeladen wurde.
 6. Klicke auf "Aktivieren", um das Plugin zu aktivieren.
 7. Wenn das Plugin aktiviert ist, wird das benutzerdefinierte CSS-Regeln ohne weitere Einstellungen hinzugefügt.
